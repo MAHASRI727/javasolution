@@ -1,0 +1,2 @@
+Hello, this is a file writing example in Java!
+This is the second line.
